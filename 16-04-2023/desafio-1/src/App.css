@@ -1,0 +1,17 @@
+body{
+  background-color: #202020;
+}
+
+h1{
+  color: red;
+}
+
+img{
+  width: 40%;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
